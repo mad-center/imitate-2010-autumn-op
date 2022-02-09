@@ -1,1 +1,0 @@
-Script from Nabscripts.com and modified for Video Copilot
