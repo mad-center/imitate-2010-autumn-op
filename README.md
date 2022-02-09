@@ -45,6 +45,8 @@ MAD教程·模仿篇：仿动画基地2010秋季OP。
 
 - [ ] ~~补充教程文档的统计信息：例如字数。~~
 
+  > 难题：类似Typora软件，统计的是md渲染后的字数，而不是文件源码。需要自定义计算规则。
+
 ## LICENSE
 
 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
