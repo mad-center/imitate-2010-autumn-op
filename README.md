@@ -12,7 +12,7 @@ MAD教程·模仿篇：仿动画基地2010秋季OP。
 
     - 配置：通用 => 高级设置 => 打开高级设置，修改`conf.user.json`文件：
 
-  ```json
+  ```
   "defaultFontFamily": {
       "standard": "LXGW WenKai Screen", //String - Defaults to "Times New Roman".
       "serif": "LXGW WenKai Screen", // String - Defaults to "Times New Roman".
