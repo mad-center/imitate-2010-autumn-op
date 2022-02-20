@@ -21,6 +21,9 @@ MAD教程·模仿篇：仿动画基地2010秋季OP。
   }
   ```
 
+## 工程文件在哪？
+> [github release 界面](https://github.com/mad-center/imitate-2010-autumn-op/releases)
+
 ## Progress
 
 - [x] 草稿/纲要（教程重点速记阶段，模仿时的中间产物）。
