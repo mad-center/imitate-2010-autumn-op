@@ -108,6 +108,7 @@ if __name__ == '__main__':
     img_can_delete = img_assets - img_in_use
     print('img_can_delete: ', len(img_can_delete))
 
+    # add dry-run mode, let user can preview which images will be deleted.
     for i in img_can_delete:
         can_delete = os.path.join(doc_folder, "assets/", i)
         print('removing...', can_delete)
