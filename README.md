@@ -6,13 +6,13 @@ MAD教程·模仿篇：仿动画基地2010秋季OP。
 
 为了更佳的阅读体验，下面介绍两种阅读环境设置：
 
-- 在线方式：PC浏览器安装Octree插件，直接在Github项目页面进行阅读。Octree充当导航大纲的作用。
+- 在线方式：PC浏览器安装Octotree插件，直接在Github项目页面进行阅读。Octree充当导航大纲的作用。
 
 - 本地方式：将该项目完整clone，安装Typora软件和霞鹜文楷字体，并进行字体配置。
 
-    - 配置：通用 => 高级设置 => 打开高级设置，修改`conf.user.json`文件：
+    - 配置：通用 => 高级设置 => 打开高级设置，修改`conf.user.json`文件。
 
-  ```
+  ``` 
   "defaultFontFamily": {
       "standard": "LXGW WenKai Screen", //String - Defaults to "Times New Roman".
       "serif": "LXGW WenKai Screen", // String - Defaults to "Times New Roman".
@@ -20,6 +20,14 @@ MAD教程·模仿篇：仿动画基地2010秋季OP。
       "monospace": "LXGW WenKai Screen" // String - Defaults to "Courier New".
   }
   ```
+    - 或修改你正在使用的主题CSS，以Github主题为例，修改`C:\Users\{USERNAME}\AppData\Roaming\Typora\themes\github.css`
+    ``` css
+    body {
+        /* font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif; */
+        font-family: "LXGW WenKai Screen","Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+        ...
+    }
+    ```
 
 ## 工程文件在哪？
 > [github release 界面](https://github.com/mad-center/imitate-2010-autumn-op/releases)
